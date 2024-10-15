@@ -1,2 +1,8 @@
+[webservers]
 10.20.0.105
+
+[dbservers]
 10.20.0.106
+
+[fileservers]
+10.20.0.107
